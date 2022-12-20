@@ -14,7 +14,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=figueiredorodrigo&label=Profile%20views&color=0e75b6&style=flat" alt="figueiredorodrigo" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=figueiredorodrigo&show_icons=true&locale=en&layout=compact" alt="figueiredorodrigo" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=figueiredorodrigo&show_icons=true&locale=en&layout=compact" alt="figueiredorodrigo" /></p><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=figueiredorodrigo&show_icons=true&locale=en" alt="figueiredorodrigo" /></p>
 
