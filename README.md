@@ -14,8 +14,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=figueiredorodrigo&label=Profile%20views&color=0e75b6&style=flat" alt="figueiredorodrigo" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=figueiredorodrigo&show_icons=true&locale=en&layout=compact" alt="figueiredorodrigo" /></p><br><br><br><br><br><br><br>
+<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=figueiredorodrigo&show_icons=true&locale=en&layout=compact" alt="figueiredorodrigo" /></p><br><br><br><br><br><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=figueiredorodrigo&show_icons=true&locale=en" alt="figueiredorodrigo" /></p><br>
+<p>&nbsp;<img align="center" src="github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=figueiredorodrigo&show_icons=true&locale=en" alt="figueiredorodrigo" /></p><br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=figueiredorodrigo" alt="figueiredorodrigo" /></a> </p>
